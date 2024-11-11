@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @NightySols
 - 👀 I’m interested in learning about computer science
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on.. idk
+- 🌱 I’m currently learning JS, PHP, HTML & CSS
 - 📫 How to reach me.. idk
-- 😄 Pronouns: he/she/him/her
-- ⚡ Fun fact: i like playing some videogames
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like reading and rain
 
 <!---
 NightySols/NightySols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
